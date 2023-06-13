@@ -1,8 +1,10 @@
-# SwitchBot Logging for Home Automation
+# Google Apps Script: Web App Template
 
-Google App Script webhook using LINE messaging API and Tasker to automate home devices.
+Starter template for local development
 
 ## Usage
+
+- Add `secret` to .gitignore to keep your secret safe
 
 ### Build
 Build project with Webpack.
