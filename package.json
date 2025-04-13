@@ -1,10 +1,10 @@
 {
-  "name": "gas-gmail-forward",
+  "name": "gas-webapp-template",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "Jack Cho",
+  "author": "John Smith",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -35,7 +35,7 @@
     "@types/crypto-js": "^4.1.1",
     "@types/google-apps-script": "^1.0.97",
     "@types/webpack-bundle-analyzer": "^4.6.0",
-    "@typescript-eslint/eslint-plugin": "8.29.1",
+    "@typescript-eslint/eslint-plugin": "^8.29.1",
     "@typescript-eslint/parser": "^8.29.1",
     "copy-webpack-plugin": "^13.0.0",
     "eslint": "^9.24.0",
